@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1792796091 source:c:\users\hp\desktop\s5\poo\les_labs\poo_c++\lab3\main.cpp
+	<iostream>
+	<iostream>
+	<string>
+	<algorithm>
+
